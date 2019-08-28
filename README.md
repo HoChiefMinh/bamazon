@@ -4,4 +4,4 @@ displays the inquire prompts asking user what item they are intrested in ourchas
 
 Bamazon2.png shows what would happen if user inputs a quantity that is greater than the amount listed in inventory. 
 
-
+Updated Portfolio: file:///Users/minhpham/Bootcamp/code/Bootstrap-Portfolio/portfolio.html
